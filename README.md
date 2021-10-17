@@ -41,4 +41,5 @@ weather.{day} = {weather}  # <- boolType.
 ```
 
 ## license
-MIT.
+MIT
+
