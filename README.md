@@ -52,4 +52,5 @@ $ weather
 ```
 
 ## license
-MIT.
+MIT
+
