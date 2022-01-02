@@ -1,5 +1,4 @@
 # weather
-
 This program returns the weather.
 
 ## How to use
