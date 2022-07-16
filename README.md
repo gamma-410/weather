@@ -6,7 +6,7 @@ This program returns the weather.
 ### install
 
 ```shell
-$ git clone https://github.com/moka-drip/weather.git
+$ git clone https://github.com/gamma-410/weather.git
 $ cd weather
 $ pip install -e .
 ```
